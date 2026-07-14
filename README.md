@@ -1,16 +1,13 @@
 \# Arduino Uno Compatible Board Based on Qualcomm QCC748 SOM
 
-![Project Schematic](Docs/QUINO01.png)
+![Project Schematic](Docs/QUINO01.jpg)
 <br>
-![Project Schematic](Docs/QUINO02.png)
+![Project Schematic](Docs/QUINO02.jpg)
 <br>
+
 This is a custom Arduino Uno-compatible board built around the Qualcomm QCC748 System-on-Module (SOM). This repository contains the full schematic, PCB layout, and supporting documentation for the board design.
 
-
-
-
-
-\## 🔧 Overview
+## 🔧 Overview
 
 
 
@@ -18,7 +15,7 @@ This project implements an Arduino Uno form-factor development board using the Q
 
 
 
-\## Key Goals
+## Key Goals
 
 \- ✅ Arduino Uno R3 mechanical footprint compatibility
 
