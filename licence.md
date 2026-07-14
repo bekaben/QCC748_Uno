@@ -184,9 +184,9 @@ NOTICE FOR RECIPIENTS
 
 This hardware design is licensed under CERN-OHL-P-2.0. The Source for this Work is available at:
 
-https://github.com/bekaben/QCC748\_Uno
+[https://github.com/bekaben/QCC748\_Uno](https://github.com/bekaben/QCC748_Uno)
 
 
 
-Any modifications made to this Work must be clearly identified with the modification date and modifier name.
+Any modifications to this Work must be clearly identified with the modification date and the modifier's name.
 
