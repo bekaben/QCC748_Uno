@@ -166,11 +166,11 @@ Copyright (c) 2026 Bekaben
 
 
 
-Licensor: Bekaben
+Licensor: BENADDA Belkacem
 
-Contact: \[Your Email Address]
+Contact: \[benadda.belkacem@gmail.com]
 
-Website: \[Your Website/GitHub URL]
+
 
 
 
