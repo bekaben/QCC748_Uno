@@ -1,4 +1,4 @@
-\# Arduino Uno Compatible Board Based on Qualcomm QCC748 SOM
+# Arduino Uno Compatible Board Based on Qualcomm QCC748 SOM
 
 ![Project Schematic](Docs/QUINO01.jpg)
 <br>
